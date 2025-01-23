@@ -26,10 +26,12 @@ Api: NewsApi
 Screenshots
 
 Home Screen
+![Home Screen](https://github.com/user-attachments/assets/8a7d0c37-d435-44ef-8d0b-8fc190e87e99)
 
 
 News Article View
-Search Functionality
+![News View Model](https://github.com/user-attachments/assets/0c5a92a2-5bf9-4cdf-bd50-bee1f9181edf)
+
 
 Contact
 If you have any questions or suggestions, feel free to reach out to:
